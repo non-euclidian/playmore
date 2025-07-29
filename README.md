@@ -8,7 +8,7 @@ It shows _how_ the code in [Andrej's lectures](https://karpathy.ai/zero-to-hero.
 
 | Part | Notebook                    | Launch |
 |------|-------------------------|---------------|
-| 1    | [Building micrograd: the spelled-out intro to neural networks and backpropagation](playmore_p1_building_micrograd.ipynb) | [![Run in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/non-euclidian/playmore/blob/master/playmore_p1_building_micrograd.ipynb) [![Run on Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/welcome?source=https://gitlab.com/non-euclidian/playmore/-/raw/master/playmore_p1_building_micrograd.ipynb)|
+| 1    | [Building micrograd: the spelled-out intro to neural networks and backpropagation](playmore_p1_building_micrograd.ipynb) | [![Run in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/non-euclidian/playmore/blob/master/playmore_p1_building_micrograd.ipynb)|
 | 2    | Building makemore: intro to language modeling   | _Coming soon_ |
 | 3    | Building makemore: MLP | _Coming soon_ |
 | 4    | Building makemore: Activations & Gradients, BatchNorm | _Coming soon_ |
