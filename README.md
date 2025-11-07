@@ -20,7 +20,7 @@ It shows _how_ the code in [Andrej's lectures](https://karpathy.ai/zero-to-hero.
 
 I started making these transcripts as a way to understand and review the material later. Then I realized this could be useful to others:
    
-1. There's value in being able to follow the development of an idea through intuitions, trials and errors. It's a way of remembering the _why_ of how something works. Neat final code doesn't do that. These notebooks guide you through Andrej's intuitions that gradually lead to code.
+1. There's value in being able to follow the development of an idea through intuitions, trials and errors. It's a way of remembering the _why_ of how something works. Neat final code doesn't do that. 
 2. I find that reading commentary and executing code is way more efficient to revisit ideas after a while than going through the video again.
 3. Some people like text more than video. Or want to supplement one with the other for a multimodal learning experience.
 
