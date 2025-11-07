@@ -44,7 +44,7 @@ Not word-by-word. Occasionally there's some extra code or metaphor I added to il
 >
 > [Richard Feynman](https://journals.biologists.com/jcs/article/130/18/2941/56386/What-I-cannot-create-I-do-not-understand)
 
-This is a _play-as-you-watch_ lecture supplement helping you grasp material more fully and revise it after a while. If the material is new, start by launching [the lecture](https://www.youtube.com/watch?v=VMj-3S1tku0). Use this notebook to test lecture ideas as they get developed.
+This is a _play-as-you-watch_ lecture supplement. If the material is new, start by launching [the lecture](https://www.youtube.com/watch?v=VMj-3S1tku0). Use this notebook to test lecture ideas as they get developed and for a quick refresher after a while.
 
 For maximum benefit, try to recreate the code for key ideas and write lecture notes of your own, aiming to express the underlying ideas precisely and poking holes in your reasoning.
 
