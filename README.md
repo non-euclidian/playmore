@@ -36,7 +36,7 @@ If you want the final code and exercises, Andrej published them in [this Github 
 
 ## Does this map 1:1 to the video?
 
-Not word-by-word. Occasionally there's some extra code or metaphor I added to illustrate a point. Some parts are summarized and you should refer to the video for details. 
+Not word-by-word. Occasionally there's some extra code or metaphor I added to illustrate a point. Some parts are (*manually*) summarized and you should refer to the video for details. 99% of the content comes from Andrej. Any mistakes or inaccuracies are all mine (_please let me know!_). 
 
 ## How to take the most out of this?
 
@@ -44,13 +44,17 @@ Not word-by-word. Occasionally there's some extra code or metaphor I added to il
 >
 > [Richard Feynman](https://journals.biologists.com/jcs/article/130/18/2941/56386/What-I-cannot-create-I-do-not-understand)
 
-This project is a _play-as-you-watch_ lecture supplement helping you grasp material more fully and revise it after a while.
+This is a _play-as-you-watch_ lecture supplement helping you grasp material more fully and revise it after a while. If the material is new, start by launching [the lecture](https://www.youtube.com/watch?v=VMj-3S1tku0). Use this notebook to test lecture ideas as they get developed.
 
 For maximum benefit, try to recreate the code for key ideas and write lecture notes of your own, aiming to express the underlying ideas precisely and poking holes in your reasoning.
 
 ## Why _Playmore_?
 
 It's a reference to the _play_ button used for executing a `Jupyter` notebook cell. And a subtle invitation to learn by doing and playing, which is the most effective approach to master a subject. You don't learn to play tennis just by watching someone else do it - _gotta do it yourself!_
+
+## Who are you?
+
+I'm Andrey, a programmer and fellow learner. Some 15 years ago I stumbled upon a yellow book titled _"Artificial Neural Networks"_ in a library by chance. I've been fascinated with AI ever since. I worked as a software architect, consultant, founder; built data aggregation systems and software that helps you become a better writer. Nowadays I'm thinking about how [Vannevar Bush's Memex](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) can be reimagined in the age of Transformer models. Reach out with ideas and feedback to **`playmore [at] noneuclidianspace.com`**.
 
 ## Acknowledgements
 
