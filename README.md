@@ -16,6 +16,13 @@ It shows _how_ the code in [Andrej's lectures](https://karpathy.ai/zero-to-hero.
 | 6    | Building makemore: WaveNet  | _Coming soon_ |
 | 7    | Building GPT: from scratch, in code, spelled out  | _Coming soon_ |
 
+## Repo structure
+
+Following the convention of [Fast.ai course](https://github.com/fastai/course22), I provide two sets of notebooks:
+
+- Repo root: notebooks with outputs;
+- `~/clean` folder: notebooks without outputs.
+
 ## But why?
 
 I started making these transcripts as a way to understand and review the material later. Then I realized this could be useful to others:
